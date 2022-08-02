@@ -22,6 +22,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.gitignore = .gitignore
 	EndProjectSection
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoopsDemo1", "LoopsDemo1\LoopsDemo1.csproj", "{1C9C4CC5-3107-43DA-B098-5C9E2408531E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoAgain", "GoAgain\GoAgain.csproj", "{B1C2839B-0F3B-46BA-9CAE-4A1A85CDFB63}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -56,6 +60,14 @@ Global
 		{19661D6A-94C9-430B-9BE9-8D5C7A10B881}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19661D6A-94C9-430B-9BE9-8D5C7A10B881}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19661D6A-94C9-430B-9BE9-8D5C7A10B881}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C9C4CC5-3107-43DA-B098-5C9E2408531E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C9C4CC5-3107-43DA-B098-5C9E2408531E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C9C4CC5-3107-43DA-B098-5C9E2408531E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C9C4CC5-3107-43DA-B098-5C9E2408531E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1C2839B-0F3B-46BA-9CAE-4A1A85CDFB63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1C2839B-0F3B-46BA-9CAE-4A1A85CDFB63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1C2839B-0F3B-46BA-9CAE-4A1A85CDFB63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1C2839B-0F3B-46BA-9CAE-4A1A85CDFB63}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
