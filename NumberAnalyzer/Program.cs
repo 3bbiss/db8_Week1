@@ -36,6 +36,6 @@ do
         Console.WriteLine("Odd and greater than 60.");
     }
 
-    Console.WriteLine("Do you want to go again?");
+    Console.WriteLine("Do you want to go again? Enter y/Y, or another key to quit");
     res = Console.ReadLine();
 } while (res[0] == 'y' || res[0] == 'Y');
