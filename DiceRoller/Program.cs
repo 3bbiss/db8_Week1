@@ -17,7 +17,7 @@ do
         string input1 = Console.ReadLine();
         res1 = int.TryParse(input1, out sides);
     }
-    while (!res1 || sides < 2 || sides > 6);
+    while (!res1 || sides < 2 || sides > 6); // restricted number of sides to between 2 and 6
 
     int number1 = GetRandom(sides + 1);
     int number2 = GetRandom(sides + 1);
